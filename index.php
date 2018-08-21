@@ -9,6 +9,8 @@
 </head>
 <body>
 
-<div class="main"></div>
+<div class="main">
+    <h1>Test Project</h1>
+</div>
 </body>
 </html>
