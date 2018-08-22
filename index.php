@@ -8,7 +8,7 @@
     <title>Document</title>
     <style>
         .main {
-            width: 960px;
+            width: 940px;
         }
     </style>
 </head>
