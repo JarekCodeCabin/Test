@@ -11,6 +11,7 @@
 
 <div class="main">
     <h1>Test Project</h1>
+    <h2>Subheading</h2>
 </div>
 </body>
 </html>
