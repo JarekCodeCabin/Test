@@ -19,7 +19,7 @@
 
 <div class="main">
     <h1>Test Project</h1>
-    <p>Github Deploy test</p>
+    <p>Github Deploy tests</p>
 </div>
 </body>
 </html>
