@@ -11,7 +11,7 @@
             background-color: #f2f2f2;
         }
         .main {
-            width: 940px;
+            width: 960px;
         }
     </style>
 </head>
