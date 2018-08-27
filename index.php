@@ -18,7 +18,7 @@
 <body>
 
 <div class="main">
-    <h1>Test Project</h1>
+    <h1>Test Project 2</h1>
 </div>
 </body>
 </html>
