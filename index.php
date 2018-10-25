@@ -8,7 +8,7 @@
     <title>Document</title>
     <style>
         body {
-            background-color: #f2f2f8;
+            background-color: #f2f2f1;
         }
         .main {
             width: 960px;
